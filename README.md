@@ -1,3 +1,7 @@
+# What I did
+
+Made a pokedex with provided information. Made Pokecard and Pokedex js files and exported them to App, which exported them to html. I tried to make cards using css but they're jank. Padding and margins still do not completely make sense to me. How do I shrink the content box rather than making the padding humongous to space the cards? Neither flex nor inline-box were the right displays. Probably should have used bootstrap.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
